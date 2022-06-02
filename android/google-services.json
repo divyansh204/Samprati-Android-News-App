@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947495149197",
+    "project_id": "samprati-1",
+    "storage_bucket": "samprati-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947495149197:android:fd8a7ba7162b1136c20cc4",
+        "android_client_info": {
+          "package_name": "com.android.samprati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947495149197-qv84as7qk2clg7maunu8p3mbc25mkk0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhTIYo26J7ZOlPB7GY6PbMyotWpNEG0M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947495149197-qv84as7qk2clg7maunu8p3mbc25mkk0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
